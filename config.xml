@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.CuentaGOTAS" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>CuentaGOTAS</name>
+    <name>AgroCLIMA</name>
     <description>
-        Calculadora de riego del INTA Alto Valle - Cooperación Facultad de Informática - UNComahue
+        Estaciones Meteorologicas del INTA Alto Valle - Cooperación Facultad de Informática - UNComahue
     </description>
     <author email="cuentagotas@gmail.com" href="">
         Lorena Gonzalez - Daniel Toth
